@@ -1,4 +1,4 @@
-# L²_C: Love Squared Coherence under the Superposition Framework
+# L²_C: Love Squared Coherence under Superposition Thoery
 
 Formalization of **L²_C** as a coherence metric for aligned intelligence under dynamic, multi-objective conditions.
 
